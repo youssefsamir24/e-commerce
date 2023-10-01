@@ -1,0 +1,9 @@
+.footer{
+    /* width: 100%;
+    position: absolute;
+    bottom: 0; */
+}
+.payment{
+    border-top: solid 0.4px rgb(223, 221, 221) ;
+    border-bottom: solid 0.4px rgb(223, 221, 221) ;
+}
